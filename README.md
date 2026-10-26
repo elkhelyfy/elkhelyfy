@@ -1,19 +1,30 @@
-## Hi, I'm Mohammed 👋
+<img src="assets/card.svg" width="100%" alt="A punched card. Its holes spell, in IBM 029 card code: MOHAMMED EL KHELYFY - BACKEND ENGINEER - PHP JAVA SQL - CASABLANCA">
 
-Backend engineer based in Casablanca, focused on **scalable systems, cloud, and microservices**.
-I like building services that are simple to run, easy to observe, and hard to break.
+<sub>IBM 029 card code · the holes spell my name</sub>
 
-### What I work with
+## Backends where every cent has to reconcile
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white)
+I'm Mohammed, a backend engineer in Casablanca. Since December 2022 I've been building fund-accounting software for investment firms in Luxembourg: PHP every day (Laminas, Laravel, Symfony), Java and Spring Boot where they fit, and AI features shipped inside real business software rather than as chatbots.
 
-### Featured projects
+**Open to backend and cloud roles** in Casablanca, Rabat or remote. [khelyfy.mohammed@gmail.com](mailto:khelyfy.mohammed@gmail.com)
+
+### Selected work
 
 | Project | What it is | Stack |
-| --- | --- | --- |
-| [event-microservice](https://github.com/elkhelyfy/event-microservice) | Event service built as a standalone microservice | Java |
-| [opencheck](https://github.com/elkhelyfy/opencheck) | Uptime monitoring | TypeScript |
-| [portfolio](https://github.com/elkhelyfy/portfolio) | My personal portfolio site | Astro |
+| :-- | :-- | :-- |
+| **E-LMA** | Portfolio management and fund accounting with a 450+ entity data model. Moved it from Zend to Laminas and PHP 5 to 8 without taking it offline. | PHP&nbsp;8&nbsp;· Laminas&nbsp;· MySQL |
+| **IGODAR** | A fund-administration platform started from an empty repo by a team of three. Exact money maths in bcmath, and an assistant that turns questions into read-only SQL. | Laravel&nbsp;· Pest&nbsp;· LLMs |
+| **E-LMA CoSec** | Company secretariat for whole groups. Synced with the Moroccan courts' API, with litigation files summarised by an LLM. | Laminas&nbsp;· MySQL&nbsp;· OpenAI |
+| **Marechal** | A RAG platform that answers from your own documents and cites them. Hybrid search, OCR, row-level security, 319 tests. | FastAPI&nbsp;· Qdrant&nbsp;· Redis |
+| **[Event Platform](https://github.com/elkhelyfy/event-microservice)** | Event booking on six Spring Boot services behind a gateway, talking over Kafka, with a waitlist when events sell out. | Spring Cloud&nbsp;· Kafka |
+| **[opencheck](https://github.com/elkhelyfy/opencheck)** | Uptime monitoring. | TypeScript&nbsp;· PHP |
+
+<sub>The first three are client work at Winfox Service, so their code is private.</sub>
+
+<br>
+
+<img src="assets/skills.svg" width="100%" alt="Skills by project, drawn as a punched card. PHP: E-LMA, IGODAR, CoSec, SmartView, Rihla. Laravel: IGODAR, SmartView, Rihla. Laminas and Doctrine: E-LMA, CoSec. MySQL: E-LMA, IGODAR, CoSec. PostgreSQL: Marechal, Events, Rihla, Tripi. Java and Spring: Events. Kafka: Events. Python and FastAPI: Marechal. Redis: Marechal. Docker: Marechal, Events. AWS: Events. Auth, RBAC and JWT: E-LMA, CoSec, Marechal, Events. Automated tests: E-LMA, IGODAR, Marechal. LLM and AI APIs: IGODAR, CoSec, Marechal, Rihla, Tripi. Frontend: E-LMA, SmartView, Marechal, Events, Tripi.">
+
+<br>
+
+[Email](mailto:khelyfy.mohammed@gmail.com) · [LinkedIn](https://www.linkedin.com/in/mohammed-el-khelyfy) · [Portfolio source](https://github.com/elkhelyfy/portfolio) · Arabic, French, English
